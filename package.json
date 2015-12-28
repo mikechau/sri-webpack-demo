@@ -50,7 +50,7 @@
     "redbox-react": "^1.2.0",
     "sass-loader": "^3.1.2",
     "sprockets-stats-webpack-plugin": "git+https://github.com/mikechau/sprockets-stats-webpack-plugin.git",
-    "sri-webpack-plugin": "git+https://github.com/mikechau/sri-webpack-plugin.git",
+    "sri-stats-webpack-plugin": "git+https://github.com/mikechau/sri-stats-webpack-plugin.git",
     "style-loader": "^0.13.0",
     "url-loader": "^0.5.7",
     "webpack": "^1.12.9",
